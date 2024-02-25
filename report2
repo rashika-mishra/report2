@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+                                              
+                                             
+    Chest X-ray Report
+    Dear user,
+    The report below describes your x-ray which was given to us. This is in a genral format in order to describe some findings and impressions.
+    Findings:
+    1)The chest X-ray reveals a normal heart size and mediastinum.
+    2)Both lung fields are clear without any evidence of infiltrates, masses, or nodules.
+    3)The diaphragm is intact, and there are no signs of pleural effusion or pneumothorax.
+    
+    
+    Impression:
+    1)Normal chest X-ray with no acute abnormalities detected.
+    2)Based on the provided X-ray image, there is no evidence of pneumonia. The lung fields appear clear, and there are no signs of consolidation or infiltrates123. However, for a comprehensive evaluation, consult a qualified radiologist or physician.
+    
+    
+    FINAL RESULT: NO PREDICTED PNEUMONIA 
+    
+</body>
+</html>
